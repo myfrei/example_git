@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.example</groupId>
-    <artifactId>example_git_2</artifactId>
+    <artifactId>example_git</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>example_git_2</name>
-    <description>example_git_2</description>
+    <description>example_git</description>/description>
     <url/>
     <licenses>
         <license/>
